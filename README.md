@@ -16,17 +16,21 @@ Sometimes it compiles, sometimes it cries. Either way, we move. 🚀
 - Python
 - GitHub black magic
 - Kali Linux — for when you want to feel like a movie hacker
-
-  ## 📜 Certifications
+  
+## 📜 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-%23FF9900?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS CCP" />
-  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-%230076C1?logo=cisco&logoColor=white&style=flat-square" alt="Cisco Intro to Cybersecurity" />
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-%230076C1?logo=cisco&logoColor=white&style=flat-square" alt="Cisco Essentials" />
-  <img src="https://img.shields.io/badge/arcX-Cyber%20Threat%20Intelligence%20101-%231E90FF?style=flat-square" alt="arcX CTI 101" />
-  <img src="https://img.shields.io/badge/Programming%20Hub-C++%20Programming-%23000000?style=flat-square" alt="C++ Certificate" />
-  <img src="https://img.shields.io/badge/Udemy-Excel%20Formulas%20%26%20Functions-%23A435F0?logo=udemy&logoColor=white&style=flat-square" alt="Excel Udemy" />
+  <a href="https://www.credly.com/earner/earned/badge/a59073aa-3f93-430a-b77c-84f07a120a44">
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-%23FF9900?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS CCP" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/1ccd4062-439e-49de-bea5-b047704fb174">
+    <img src="https://img.shields.io/badge/AWS-re/Start%20Graduate-%23FF9900?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS re/Start Graduate" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/89d7c696-a6ca-4738-b681-4ee656c49c78">
+    <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-%230076C1?logo=cisco&logoColor=white&style=flat-square" alt="Cisco Intro to Cybersecurity" />
+  </a>
 </p>
+
 
 
 ## 😅 Fun Facts
