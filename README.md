@@ -47,6 +47,7 @@ Sometimes it compiles, sometimes it cries. Either way, we move. 🚀
 - Get paid for doing all three 😎
 
 ## 📬 Let’s connect before I get stuck in a loop
+www.linkedin.com/in/johannes-kwofie-1bb78b375 ON Linkedln
 
 
 
