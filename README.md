@@ -1,55 +1,40 @@
 ## 🧠 Welcome to my corner of the internet!
 
-Hi, I'm **Johannes Hezekiah Kwofie**,I write code.  
-Sometimes it compiles, sometimes it cries. Either way, we move. 🚀
+# 👋 Hi, I'm Johannes Kwofie  
 
-## 🛠 What I Do
+💻 **Aspiring IT Support & Cybersecurity Professional**  
+🔐 Passionate about **Operating Systems (Windows & Linux), Networking, and Cloud (AWS)**  
+📚 Continuously learning and sharing my journey in **IT, Security, and Frontend Development**  
 
-- 🖥️ Frontend stuff (making pixels behave)
-- 🐍 Python scripts (some harmless... some ask for IP addresses)
-- 🐧 Breaking and fixing Linux (usually in that order)
-- 🕵️ Security things — legally, I promise 👀
+---
 
-## 🧪 Currently Experimenting With
+## 🚀 About Me  
+- 🌱 Currently building strong foundations in **Helpdesk, Entry-Level IT, and Cybersecurity**  
+- 📖 Certified in **C++ Programming, Cyber Threat Intelligence (arcX), AWS re/Start, and Cisco’s Introduction to Cybersecurity**  
+- 🛠️ Hands-on with **Linux (Kali), and Cloud Basics (AWS)**  
+- 🎯 Goal: Transition into **IT Support and Entry-Level Cybersecurity roles**  
+- 🤝 Open to collaborations on **security labs, IT automation, and beginner-friendly projects**  
 
-- HTML • CSS • JavaScript (a.k.a. “The Holy Frontend Trinity”)
-- Python
-- GitHub black magic
-- Kali Linux — for when you want to feel like a movie hacker
-  
-## 📜 Certifications
+---
 
-<p align="left">
-  <a href="https://www.credly.com/earner/earned/badge/a59073aa-3f93-430a-b77c-84f07a120a44">
-    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-%23FF9900?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS CCP" />
-  </a>
-  <a href="https://www.credly.com/earner/earned/badge/1ccd4062-439e-49de-bea5-b047704fb174">
-    <img src="https://img.shields.io/badge/AWS-re/Start%20Graduate-%23FF9900?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS re/Start Graduate" />
-  </a>
-  <a href="https://www.credly.com/earner/earned/badge/89d7c696-a6ca-4738-b681-4ee656c49c78">
-    <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-%230076C1?logo=cisco&logoColor=white&style=flat-square" alt="Cisco Intro to Cybersecurity" />
-  </a>
-</p>
+## 🛠️ Tech Stack & Tools  
+- **Operating Systems:** Windows, Linux (Kali, Ubuntu)   
+- **Cloud:** AWS (Cloud Practitioner)  
+- **Version Control:** Git & GitHub  
 
+---
 
+## 📂 Projects  
+Here are a few highlights (more coming soon):  
+- 🔎 **Port Scanner (Python)** – Simple script to scan for open ports *(learning project)*  
 
-## 😅 Fun Facts
+---
 
-- I’ve debugged things for 3 hours… then realized I forgot a semicolon
-- I once broke my terminal and blamed the universe
-- Favorite command: `ctrl + z` (spiritually and technically)
+## 📫 Connect With Me  
+- 💼 [LinkedIn](www.linkedin.com/in/johannes-kwofie-1bb78b375e)   
+- 📧 johanneskwofie07@gmail.com  
 
-## 🎯 Goals
+---
 
-- Break things (ethically)  
-- Learn things  
-- Build cool stuff  
-- Get paid for doing all three 😎
+⭐️ *“Every expert was once a beginner — I’m building step by step, from IT Support to Cybersecurity.”*
 
-## 📬 Let’s connect before I get stuck in a loop
-www.linkedin.com/in/johannes-kwofie-1bb78b375 ON Linkedln
-
-
-
-“99 bugs in the code, take one down, patch it around… 127 bugs in the code.”  
- — every developer ever
