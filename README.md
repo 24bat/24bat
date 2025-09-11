@@ -18,7 +18,7 @@
 ---
 
 ## 🛠️ Tech Stack & Tools  
-- **Operating Systems:** Windows, Linux (Kali, Ubuntu)   
+- **Operating Systems:** Windows, Linux (Kali)   
 - **Cloud:** AWS (Cloud Practitioner)  
 - **Version Control:** Git & GitHub  
 
