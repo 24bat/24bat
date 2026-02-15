@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Johannes Kwofie  
 
-💻 **Aspiring IT Support & Cybersecurity Professional**  
+💻 **Aspiring Security Analyst**  
 🔐 Passionate about **Operating Systems (Windows & Linux), Networking, and Cloud (AWS)**  
 📚 Continuously learning and sharing my journey in **IT, Security, and Frontend Development**  
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me  
 - 🌱 Currently building strong foundations in **Helpdesk, Entry-Level IT, and Cybersecurity**  
-- 📖 Certified in **C++ Programming, Cyber Threat Intelligence (arcX), AWS re/Start, and Cisco’s Introduction to Cybersecurity**  
+- 📖 Certifications **,AWS Certified Cloud Practitioner,Cisco – Introduction to Cybersecurity,Operating Systems Basics ,CyberOps Associate,Certified Network Security Practitioner (CNSP) **  
 - 🛠️ Hands-on with **Linux (Kali), and Cloud Basics (AWS)**  
 - 🎯 Goal: Transition into **IT Support and Entry-Level Cybersecurity roles**  
 - 🤝 Open to collaborations on **security labs, IT automation, and beginner-friendly projects**  
