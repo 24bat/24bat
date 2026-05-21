@@ -1,40 +1,52 @@
 ## 🧠 Welcome to my corner of the internet!
 
-# 👋 Hi, I'm Johannes Kwofie  
-
-💻 **Aspiring Security Analyst**  
-🔐 Passionate about **Operating Systems (Windows & Linux), Networking, and Cloud (AWS)**  
-📚 Continuously learning and sharing my journey in **IT, Security, and Frontend Development**  
-
----
-
-## 🚀 About Me  
-- 🌱 Currently building strong foundations in **Helpdesk, Entry-Level IT, and Cybersecurity**  
-- 📖 Certifications **,AWS Certified Cloud Practitioner,Cisco – Introduction to Cybersecurity,Operating Systems Basics ,CyberOps Associate,Certified Network Security Practitioner (CNSP) **  
-- 🛠️ Hands-on with **Linux (Kali), and Cloud Basics (AWS)**  
-- 🎯 Goal: Transition into **IT Support and Entry-Level Cybersecurity roles**  
-- 🤝 Open to collaborations on **security labs, IT automation, and beginner-friendly projects**  
+# 👋 Hi, I'm Johannes Kwofie
+🔐 **Aspiring Penetration Tester**  
+💻 Passionate about **Web App Security, Networking, and Cloud (AWS)**  
+📚 Continuously learning and sharing my journey in **Cybersecurity**
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-- **Operating Systems:** Windows, Linux (Kali)   
-- **Cloud:** AWS (Cloud Practitioner)  
-- **Version Control:** Git & GitHub  
+## 🚀 About Me
+- 🔭 Currently interning at **AmaliTech** as a Cybersecurity Intern
+- 🌱 Working through **PortSwigger Web Security Academy** — Authentication, OWASP Top 10
+- 🎓 Studying **B.Sc. Information Technology** at the University of Cape Coast
+- 🏆 Certifications: **AWS CCP · CNSP · CyberOps Associate · Cisco Intro to Cybersecurity · OS Basics**
+- 🛠️ Hands-on with **Burp Suite, Nmap, Nessus, Kali Linux, UFW**
+- 🎯 Goal: Land a **Junior Penetration Tester** role
+- 🤝 Open to collaborations on **security labs, CTFs, and pentest projects**
 
 ---
 
-## 📂 Projects  
-Here are a few highlights (more coming soon):  
-- 🔎 **Port Scanner (Python)** – Simple script to scan for open ports *(learning project)*  
+## 🛠️ Tech Stack & Tools
+- **Security:** Burp Suite · Nmap · Nessus · Kali Linux
+- **OS:** Kali Linux · Ubuntu · Windows
+- **Cloud:** AWS (EC2, S3, IAM, VPC)
+- **Scripting:** Python
+- **Version Control:** Git & GitHub
 
 ---
 
-## 📫 Connect With Me  
-- 💼 [LinkedIn](www.linkedin.com/in/johannes-kwofie-1bb78b375e)   
-- 📧 johanneskwofie07@gmail.com  
+## 📂 Projects
+- 🛡️ **Network Vulnerability Assessment & Hardening** — Simulated office network on VirtualBox, exploited Telnet/FTP/SSH misconfigs, hardened with UFW. Reduced attack surface by 50%
+- 🔎 **Port Scanner (Python)** — Simple script to scan for open ports
+- 🏴 **CTF — Kweku Ananse: Dread the Thread** — Placed 9th on CTFZone with team Script Kiddies. Web Exploitation, Pwn, Reverse Engineering, Cryptography, Steganography & Forensics
 
 ---
 
-⭐️ *“Every expert was once a beginner — I’m building step by step, from IT Support to Cybersecurity.”*
+## 🏅 Certifications
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a59073aa-3f93-430a-b77c-84f07a120a44/linked_in_profile)
+- [CyberOps Associate](https://www.credly.com/badges/8caae0ea-f0d8-4202-9b8e-4aa40387dfdf)
+- [Cisco – Introduction to Cybersecurity](https://www.credly.com/badges/2c179a55-9e4c-4635-a8a3-52cbf5bd31e9/linked_in_profile)
+- [Operating Systems Basics](https://www.credly.com/badges/2c179a55-9e4c-4635-a8a3-52cbf5bd31e9/linked_in_profile)
+- [Certified Network Security Practitioner (CNSP)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXczTDZs04Q0m0g9nRHdXMNSu3WAqgQyW/+whKfU29HELXQet7MWC2jA7vsHhiP2vZ6/Y4sdU93jPLywVX7pdLqU=)
 
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/johannes-kwofie-1bb78b375e)
+- 📧 johanneskwofie07@gmail.com
+
+---
+
+⭐️ *"Every expert was once a beginner — I'm building step by step, from IT Support to Penetration Testing."*
