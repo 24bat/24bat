@@ -1,6 +1,6 @@
 ## 🧠 Welcome to my corner of the internet!
 
-# 👋 Hi, I'm Johannes Kwofie
+# 👋 Hi, I'm Johannes
 🔐 **Aspiring Penetration Tester**  
 💻 Passionate about **Web App Security, Networking, and Cloud (AWS)**  
 📚 Continuously learning and sharing my journey in **Cybersecurity**
