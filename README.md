@@ -1,14 +1,13 @@
 ## 🧠 Welcome to my corner of the internet!
 
 # 👋 Hi, I'm Johannes
-🔐 **Aspiring Penetration Tester**  
+🔐 **JR Penetration Tester**  
 💻 Passionate about **Web App Security, Networking, and Cloud (AWS)**  
 📚 Continuously learning and sharing my journey in **Cybersecurity**
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently interning at **AmaliTech** as a Cybersecurity Intern
 - 🌱 Working through **PortSwigger Web Security Academy** — Authentication, OWASP Top 10
 - 🎓 Studying **B.Sc. Information Technology** at the University of Cape Coast
 - 🏆 Certifications: **AWS CCP · CNSP · CyberOps Associate · Cisco Intro to Cybersecurity · OS Basics**
