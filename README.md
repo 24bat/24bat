@@ -39,7 +39,7 @@
 - [Cisco – Introduction to Cybersecurity](https://www.credly.com/badges/2c179a55-9e4c-4635-a8a3-52cbf5bd31e9/linked_in_profile)
 - [Operating Systems Basics](https://www.credly.com/badges/2c179a55-9e4c-4635-a8a3-52cbf5bd31e9/linked_in_profile)
 - [Certified Network Security Practitioner (CNSP)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXczTDZs04Q0m0g9nRHdXMNSu3WAqgQyW/+whKfU29HELXQet7MWC2jA7vsHhiP2vZ6/Y4sdU93jPLywVX7pdLqU=)
-- [Certified Social Engineering Defense Practitioner (CSEDP)] --Ongoing, Voucher Obtained.
+- [Certified Social Engineering Defense Practitioner (CSEDP)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXShSxXOoX18IBTVadyI+9pG0PUVRd0F8T39b5c95pGpWKX/3u7nlKq7d1b5v4+yG39ub9W5LwJCZEUKQVaJDq6E=)
 
 ---
 
