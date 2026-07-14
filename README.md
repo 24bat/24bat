@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🌱 Working through **PortSwigger Web Security Academy** — Authentication, OWASP Top 10
 - 🎓 Studying **B.Sc. Information Technology** at the University of Cape Coast
-- 🏆 Certifications: **AWS CCP · CNSP · CyberOps Associate · Cisco Intro to Cybersecurity · OS Basics**
+- 🏆 Certifications: **AWS CCP · CNSP · CSEDP · CyberOps Associate · Cisco Intro to Cybersecurity · OS Basics**
 - 🛠️ Hands-on with **Burp Suite, Nmap, Nessus, Kali Linux, UFW**
 - 🎯 Goal: Land a **Junior Penetration Tester** role
 - 🤝 Open to collaborations on **security labs, CTFs, and pentest projects**
@@ -18,12 +18,7 @@
 - **Cloud:** AWS (EC2, S3, IAM, VPC)
 - **Scripting:** Python
 - **Version Control:** Git & GitHub
----
-## 📂 Projects
-- 🛡️ **Network Vulnerability Assessment & Hardening** — Simulated office network on VirtualBox, exploited Telnet/FTP/SSH misconfigs, hardened with UFW. Reduced attack surface by 50%
-- 🔎 **Port Scanner (Python)** — Simple script to scan for open ports
-- 🏴 **CTF — Kweku Ananse: Dread the Thread** — Placed 9th on CTFZone with team Script Kiddies. Web Exploitation, Pwn, Reverse Engineering, Cryptography, Steganography & Forensics
----
+
 ## 🏅 Certifications
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a59073aa-3f93-430a-b77c-84f07a120a44/linked_in_profile)
 - [CyberOps Associate](https://www.credly.com/badges/8caae0ea-f0d8-4202-9b8e-4aa40387dfdf)
