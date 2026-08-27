@@ -1,16 +1,18 @@
 ## 🧠 Welcome to my corner of the internet!
 # 👋 Hi, I'm Johannes
-🔐 **JR Penetration Tester**  
-💻 Passionate about **Web App Security, Networking, and Cloud (AWS)**  
-📚 Continuously learning and sharing my journey in **Cybersecurity**
+🔎 **Aspiring SOC Analyst → Future Red Teamer** 
+💻 Passionate about Threat Detection, Web App Security, Networking, and Cloud (AWS)
+📚 Starting on the blue team to master detection — before moving into offensive security
 ---
 ## 🚀 About Me
-- 🌱 Working through **PortSwigger Web Security Academy** — Authentication, OWASP Top 10
-- 🎓 Studying **B.Sc. Information Technology** at the University of Cape Coast
+- 🛡️ Currently building a foundation in **SOC operations** — log analysis, SIEM, incident triage, MITRE ATT&CK
+- ⚔️ Long-term goal: transition into **Red Team / Penetration Testing**, using blue team experience to attack smarter and evade detection
+- 🟢 Working through **PortSwigger Web Security Academy** — Authentication, OWASP Top 10
+- 🎓 B.Sc. Information Technology, University of Cape Coast (2026)
 - 🏆 Certifications: **AWS CCP · CNSP · CSEDP · CyberOps Associate · Cisco Intro to Cybersecurity · OS Basics**
-- 🛠️ Hands-on with **Burp Suite, Nmap, Nessus, Kali Linux, UFW**
-- 🎯 Goal: Land a **Junior Penetration Tester** role
-- 🤝 Open to collaborations on **security labs, CTFs, and pentest projects**
+- 🧰 Hands-on with **Burp Suite, Nmap, Nessus, Kali Linux, UFW**
+- 🎯 Goal: Land a **SOC Analyst** role now, level up into **Red Team Operator** next
+- 🤝 Open to collaborations on security labs, CTFs, and detection/pentest projects
 ---
 ## 🛠️ Tech Stack & Tools
 - **Security:** Burp Suite · Nmap · Nessus · Kali Linux
