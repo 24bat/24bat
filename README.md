@@ -33,4 +33,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/johannes-kwofie-1bb78b375e)
 - 📧 johanneskwofie07@gmail.com
 ---
-⭐️ *"Every expert was once a beginner — I'm building step by step, from IT Support to Penetration Testing."*
+⭐️ *"Every expert was once a beginner — I'm building step by step, from IT Support to Soc to Penetration Testing."*
