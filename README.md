@@ -1,6 +1,6 @@
 ## 🧠 Welcome to my corner of the internet!
 # 👋 Hi, I'm Johannes
-🔎 **Aspiring SOC Analyst → Future Red Teamer** 
+🔎 **SOC Analyst L1 → Future Red Teamer** 
 💻 Passionate about Threat Detection, Web App Security, Networking, and Cloud (AWS)
 📚 Starting on the blue team to master detection — before moving into offensive security
 ---
