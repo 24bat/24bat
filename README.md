@@ -15,9 +15,9 @@
 - 🤝 Open to collaborations on security labs, CTFs, and detection/pentest projects
 ---
 ## 🛠️ Tech Stack & Tools
-- **Security:** Burp Suite · Nmap · Nessus · Kali Linux
+- **Security:** Burp Suite · Nmap · Nessus · Kali Linux · Wireshark · Splunk 
 - **OS:** Kali Linux · Ubuntu · Windows
-- **Cloud:** AWS (EC2, S3, IAM, VPC)
+- **Cloud:** AWS 
 - **Scripting:** Python
 - **Version Control:** Git & GitHub
 
